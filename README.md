@@ -6,26 +6,26 @@ Currently focused on TypeScript, React, Fastify, PostgreSQL, cloud-native archit
 
 👨‍💻 Experience
 
-• Languages
+• Languages:
 TypeScript, JavaScript, SQL, Python
 
-• Frontend
+• Frontend:
 React, TanStack Router, TanStack Query, Tailwind CSS, Vite
 
-• Backend
+• Backend:
 Node.js, Fastify, Bun, Elysia, REST APIs
 
-• Databases
+• Databases:
 PostgreSQL, Redis, Prisma ORM
 
-• Cloud & Infrastructure
+• Cloud & Infrastructure:
 AWS, Docker, Podman, Nginx, IIS
 
-• DevOps
+• DevOps:
 GitHub Actions, CI/CD, Infrastructure as Code (learning Terraform)
 
-• Software Architecture
+• Software Architecture:
 Modular Monoliths, Event-Driven Architecture, Messaging, Offline-first PWAs
 
-• Industrial Systems
+• Industrial Systems:
 SCADA, DCS, PLCs, OPC DA, Process Automation
